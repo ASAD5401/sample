@@ -1,0 +1,103 @@
+{
+    
+    "web-development": {
+      "id":"001",
+      "title": "Web Development",
+      "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+      "duration":"8 weeks",
+      "eligibility":"Undergraduate",
+      "fees":"10000",
+      "level":"beginner",
+      "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+    },
+    "web-development1": {
+        "id":"001",
+        "title": "Web Development",
+        "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "duration":"8 weeks",
+        "eligibility":"Undergraduate",
+        "fees":"10000",
+        "level":"beginner",
+        "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+      },
+      "web-development2": {
+        "id":"001",
+        "title": "Web Development",
+        "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "duration":"8 weeks",
+        "eligibility":"Undergraduate",
+        "fees":"10000",
+        "level":"beginner",
+        "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+      },
+      "web-development3": {
+        "id":"001",
+        "title": "Web Development",
+        "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "duration":"8 weeks",
+        "eligibility":"Undergraduate",
+        "fees":"10000",
+        "level":"beginner",
+        "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+      },
+      "web-development4": {
+        "id":"001",
+        "title": "Web Development",
+        "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "duration":"8 weeks",
+        "eligibility":"Undergraduate",
+        "fees":"10000",
+        "level":"beginner",
+        "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+      },
+      "web-development5": {
+        "id":"001",
+        "title": "Web Development",
+        "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "duration":"8 weeks",
+        "eligibility":"Undergraduate",
+        "fees":"10000",
+        "level":"beginner",
+        "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+      },
+      "web-development6": {
+        "id":"001",
+        "title": "Web Development",
+        "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "duration":"8 weeks",
+        "eligibility":"Undergraduate",
+        "fees":"10000",
+        "level":"beginner",
+        "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+      },
+      "web-development7": {
+        "id":"001",
+        "title": "Web Development",
+        "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "duration":"8 weeks",
+        "eligibility":"Undergraduate",
+        "fees":"10000",
+        "level":"beginner",
+        "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+      },
+      "web-development8": {
+        "id":"001",
+        "title": "Web Development",
+        "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "duration":"8 weeks",
+        "eligibility":"Undergraduate",
+        "fees":"10000",
+        "level":"beginner",
+        "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+      },
+      "web-development9": {
+        "id":"001",
+        "title": "Web Development",
+        "image":"https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg",
+        "duration":"8 weeks",
+        "eligibility":"Undergraduate",
+        "fees":"10000",
+        "level":"beginner",
+        "outline":["HTML","CSS","JS","ES6","Bootstrap","Github","React","Material UI","Node JS","Mongo DB"]
+      }
+}
